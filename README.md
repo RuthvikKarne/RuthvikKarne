@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SpringBoot,Data Science**
 
-- 💬 Ask me about **Python,Numpy,Pandas**
+- 💬 Ask me about **Python,Numpy,Pandas,React,MongoDB,ExpressJS,NodeJS**
 
 - 📫 How to reach me **ruthvikkarne11@gmail.com**
 
