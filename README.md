@@ -44,6 +44,9 @@ Git, GitHub, VS Code, Postman
 
 ---
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthvikkarne&show_icons=true&locale=en" alt="ruthvikkarne" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthvikkarne&" alt="ruthvikkarne" /></p>
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/RuthvikKarne
