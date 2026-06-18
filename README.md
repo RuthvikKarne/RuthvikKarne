@@ -2,76 +2,68 @@
 
 # 👋 Hey, I'm Ruthvik Karne
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Backend+Engineer;Data+Science+Enthusiast;Building+Clean+and+Scalable+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+Developer;Backend+Engineer;Data+Science+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
-<p>
-  <a href="https://github.com/RuthvikKarne">
-    <img src="https://komarev.com/ghpvc/?username=RuthvikKarne&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=RuthvikKarne&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a passionate developer focused on creating modern, scalable, and user-friendly applications.
-
-I enjoy solving real-world problems through software engineering, backend architecture, and data-driven solutions.
-
-- 💻 Full-Stack Developer
-- ⚙️ Backend & API Development
-- 📊 Exploring Data Science & Machine Learning
-- 🌐 Building Modern Web Applications
-- 📱 Interested in Cross-Platform Development
-- 🚀 Always Learning & Improving
-- 🎯 Focused on Writing Clean, Maintainable Code
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📈 Current Focus
-
-```text
-🔹 Full-Stack Development
-🔹 Spring Boot Backend Systems
-🔹 Data Structures & Algorithms
-🔹 Habit Tracker Project
-🔹 Portfolio Website
-🔹 Scalable API Design
+```yaml
+Name: Ruthvik Karne
+Role: Full-Stack Developer
+Focus: Backend Engineering & Scalable Systems
+Languages: Java, JavaScript
+Interests:
+  - Full Stack Development
+  - Data Science
+  - Machine Learning
+  - System Design
+Current Goal:
+  - Become an exceptional Software Engineer
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# ⚡ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,mongodb" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-grade full-stack applications
+- ⚙️ Master Spring Boot ecosystem
+- 🧠 Learn advanced system design
+- 📊 Dive deeper into Machine Learning
+- 🔥 Consistently solve DSA problems
+- 🌍 Contribute to Open Source
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -83,7 +75,7 @@ I enjoy solving real-world problems through software engineering, backend archit
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -93,7 +85,7 @@ I enjoy solving real-world problems through software engineering, backend archit
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -103,7 +95,7 @@ I enjoy solving real-world problems through software engineering, backend archit
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <div align="center">
 
@@ -113,41 +105,107 @@ I enjoy solving real-world problems through software engineering, backend archit
 
 ---
 
-## 🌟 Featured Projects
+# 💻 Coding Stats
 
-### 📌 Habit Tracker
-A productivity-focused application designed to help users build and maintain better habits.
+<!-- Replace username -->
 
-### 📌 Portfolio Website
-Personal portfolio showcasing projects, skills, and development journey.
+<div align="center">
 
-### 📌 Full-Stack Applications
-Modern web applications using React, Spring Boot, PostgreSQL, and REST APIs.
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🧩 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+
+</div>
+
+---
+
+# 🎵 Currently Listening
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📌 Habit Tracker
+
+Track habits, monitor progress, and improve productivity.
+
+**Tech:**
+React • Spring Boot • PostgreSQL
+
+</td>
+
+<td width="50%">
+
+### 📌 Portfolio Website
+
+Personal portfolio showcasing projects and skills.
+
+**Tech:**
+React • JavaScript • CSS
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Spring Security
+Microservices
+Docker
+System Design
+Machine Learning
+Cloud Deployment
+```
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/RuthvikKarne">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/karneruthvik">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
+# 💭 Developer Quote
+
+> "The best way to learn is to build. The best way to improve is to keep building."
+
+---
+
 <div align="center">
 
-### 💡 Philosophy
+### Thanks for visiting 👨‍💻
 
-> **Build consistently. Learn relentlessly. Improve daily.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
 
 </div>
