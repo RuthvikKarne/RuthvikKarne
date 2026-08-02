@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" alt="Ruthvik Karne Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/RuthvikKarne/RuthvikKarne/main/header.svg" alt="Ruthvik Karne Banner" width="800" />
 </p>
 
 ## $ cat about.yml
