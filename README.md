@@ -8,7 +8,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=780&lines=%24+whoami;%3E+Ruthvik+Karne;%24+cat+role.txt;%3E+Full-Stack+Developer+%7C+Java+%2F+Spring+Boot+%2F+React;%24+status+--current;%3E+Shipping+features+%40+Validly+Ltd" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=780&lines=%24+whoami;%3E+Ruthvik+Karne;%24+cat+role.txt;%3E+Software+Engineer+%7C+Backend+%E2%80%A2+Full+Stack+%E2%80%A2+AI;%24+status+--current;%3E+Backend+Engineering+%26+Full+Stack+Development" />
 
 <br/>
 
@@ -36,13 +36,10 @@
 > loading identity.yaml ...
 
 name        : Ruthvik Karne
-role        : Full-Stack Developer
-education   : B.Tech CSE @ Anurag University (2023 - 2027)
-current_job : Full-Stack Developer Intern @ Validly Ltd
-location    : Hyderabad, India
-focus       : [ Scalable REST APIs, Cloud Deployments, System Design ]
-mission     : "Engineer elegant backends & intuitive UIs, automate everything."
-learning    : Advanced Microservices Architecture & System Design
+title       : Software Engineer | Backend • Full Stack • AI
+builds_with : [ Java, Spring Boot, React, Python, PostgreSQL, Redis, AI ]
+focus       : Backend Engineering & Full Stack Development
+mission     : "Build production-oriented web applications and backend systems."
 
 > process exited (0)
 ```
@@ -51,16 +48,101 @@ learning    : Advanced Microservices Architecture & System Design
 ──────────────────────────────────────────────────────────────────────
 ```
 
+## `$` grep -r "featured" ./projects/
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`~/projects/ai-task-automation`** — 🤖 AI Task Automation
+
+![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=39FF14)
+
+```
+> AI-powered task assignment engine
+> evaluates skills, workload & task requirements
+> auto-assigns work to the best-fit team member
+```
+
+<p align="right"><a href="https://github.com/RuthvikKarne/JOB-AUTOMATION-WITH-AI"><b>→ view project</b></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+**`~/projects/realtime-messaging`** — 💬 Real-Time Messaging Platform
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14)
+![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=39FF14)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=39FF14)
+
+```
+> production-style real-time messaging system
+> JWT auth + WebSockets + Redis presence tracking
+> group messaging & typing indicators
+```
+
+<p align="right"><a href="https://github.com/RuthvikKarne/Realtimechatbot"><b>→ view project</b></a></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**`~/projects/capinsta`** — 🎥 Capinsta
+
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14)
+![NLP](https://img.shields.io/badge/NLP-000000?style=flat-square&logo=openai&logoColor=39FF14)
+
+```
+> AI-powered multilingual video captioning platform
+> asynchronous processing, concurrent request handling
+```
+
+<p align="right"><a href="https://capinsta.huygenstudios.com/"><b>→ view project</b></a></p>
+
+</td>
+<td width="50%" valign="top">
+
+**`~/projects/ecommerce-app`** — 🛒 E-Commerce Application
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14)
+![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=39FF14)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=39FF14)
+
+```
+> full-stack e-commerce platform
+> auth, product management, cart, orders
+> transactional processing
+```
+
+<p align="right"><a href="https://github.com/RuthvikKarne/E-Commerce-Application"><b>→ view project</b></a></p>
+
+</td>
+</tr>
+</table>
+
+```bash
+──────────────────────────────────────────────────────────────────────
+```
+
 ## `$` ./run experience.sh
 
 ```
-[ RUNNING ] Full-Stack Developer Intern @ Validly Ltd (Remote)
-[ UPTIME  ] Feb 2026 — Jun 2026
+[ RUNNING ] Full Stack Developer Intern @ Validly (Remote)
 
-  ✔ built & shipped production features using Next.js, React.js, Node.js, MongoDB
-  ✔ profiled + optimized MongoDB queries/indexing → API response time  -20%
-  ✔ paired with devs & stakeholders in Agile sprints to ship on schedule
-  ✔ ran code reviews, integration tests & CI/CD checks to keep prod stable
+  ✔ built full-stack features using React, Node.js and MongoDB
+  ✔ developed & integrated REST APIs
+  ✔ improved database query performance
+  ✔ worked with asynchronous workflows
+  ✔ participated in Git-based development & CI/CD
 
 [ STATUS  ] task complete ✅
 ```
@@ -73,83 +155,47 @@ learning    : Advanced Microservices Architecture & System Design
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <b>&gt; languages_frontend/</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs&theme=dark&perline=4" />
+    <td width="20%" valign="top">
+      <b>&gt; languages/</b><br/><br/>
+      Java, Python, JavaScript,<br/>TypeScript, SQL
     </td>
-    <td width="33%" valign="top">
-      <b>&gt; backend_databases/</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb,postgres,redis&theme=dark&perline=3" />
+    <td width="20%" valign="top">
+      <b>&gt; backend/</b><br/><br/>
+      Spring Boot, Spring Security,<br/>FastAPI, Node.js,<br/>REST APIs, WebSockets
     </td>
-    <td width="33%" valign="top">
-      <b>&gt; devops_tools/</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,postman,vscode&theme=dark&perline=4" />
+    <td width="20%" valign="top">
+      <b>&gt; frontend/</b><br/><br/>
+      React, Vite,<br/>Tailwind CSS
+    </td>
+    <td width="20%" valign="top">
+      <b>&gt; databases/</b><br/><br/>
+      PostgreSQL, MySQL,<br/>MongoDB, Redis
+    </td>
+    <td width="20%" valign="top">
+      <b>&gt; ai_ml/</b><br/><br/>
+      OpenAI API, Gemini,<br/>NLP, Machine Learning
     </td>
   </tr>
 </table>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,react,vite,tailwind,spring,nodejs,postgres,mysql,mongodb,redis,git,github,docker&theme=dark&perline=8" />
+</div>
 
 ```bash
 ──────────────────────────────────────────────────────────────────────
 ```
 
-## `$` grep -r "featured" ./projects/
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**`~/projects/capinsta`** — 🎥 AI Multilingual Video Captioning
-
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14)
-![NLP](https://img.shields.io/badge/NLP-000000?style=flat-square&logo=openai&logoColor=39FF14)
+## `$` cat ~/.learning_now
 
 ```
-> AI-powered captioning w/ speech recognition + word-level timestamps
-> FastAPI backend, 100+ concurrent users, latency -35%
-> browser caption editor → exports SRT / VTT / MP4
+[ IN PROGRESS ]
+
+  ▸ Distributed Systems
+  ▸ System Design
+  ▸ Advanced DSA
+  ▸ Cloud Deployment
 ```
-
-</td>
-<td width="50%" valign="top">
-
-**`~/projects/job-automation-ai`** — 🤖 Job Automation with AI
-
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14)
-![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=39FF14)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=39FF14)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=39FF14)
-
-```
-> AI job-listing engine → manual application time -70%
-> JWT-secured APIs, latency -25%
-> async Java thread pools → batch throughput +30%
-```
-
-<p align="right"><a href="https://github.com/RuthvikKarne/JOB-AUTOMATION-WITH-AI"><b>→ open repo</b></a></p>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**`~/projects/ecommerce-platform`** — 🛒 E-Commerce Platform
-
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14)
-![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=spring-boot&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=39FF14)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=39FF14)
-
-```
-> full commerce build: auth, catalog, cart, payment gateway flow
-> highly indexed MySQL schemas → query perf +25%
-> focused on transactional safety + smooth end-user UX
-```
-
-</td>
-</tr>
-</table>
 
 ```bash
 ──────────────────────────────────────────────────────────────────────
@@ -158,7 +204,7 @@ learning    : Advanced Microservices Architecture & System Design
 ## `$` top --stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuthvikKarne&show_icons=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_color=39FF14&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RuthvikKarne&show_icons=true&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuthvikKarne&layout=compact&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117&hide_border=true" width="48%" />
 </div>
 <br/>
@@ -190,9 +236,6 @@ learning    : Advanced Microservices Architecture & System Design
 </a>
 <a href="https://www.linkedin.com/in/karneruthvik">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-<a href="https://www.ruthvikkarne.tech">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14"/>
 </a>
 <a href="mailto:ruthvikkarne11@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14"/>
