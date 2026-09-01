@@ -215,15 +215,6 @@ mission     : "Build production-oriented web applications and backend systems."
 
 ```bash
 ──────────────────────────────────────────────────────────────────────
-```
-
-## `$` cat contribution_log.snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/RuthvikKarne/RuthvikKarne/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
-```bash
 ──────────────────────────────────────────────────────────────────────
 ```
 
